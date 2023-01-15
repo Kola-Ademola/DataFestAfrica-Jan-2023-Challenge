@@ -46,10 +46,10 @@ but generally the highest sales was in Week 2 with a total of **$358,995** in sa
 
 * Which shops generated the most sales for each week?
 >Answer:::The shops with the most sales per week are;
-> Week 1 : Shop 89  
-> Week 2 : Shop 70
-> Week 3 : Shop 6
-> Week 4 : Shop 46
+> Week 1 : Shop 89    
+> Week 2 : Shop 70  
+> Week 3 : Shop 6  
+> Week 4 : Shop 46  
 > Week 5 : Shop 30    
 
 * Total number of orders. 
