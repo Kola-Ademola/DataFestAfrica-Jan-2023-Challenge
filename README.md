@@ -40,29 +40,29 @@ Interesting metrics would be;
 * Top 5 Shop with the highest sales.
 > Answer::: No significant diffrence among the Top 5 shops, but Shop with id 89 makes the most sales at $23,128.  
 
-* What is sales like in each week & Shop with the highest sales per week.
-We can see the sales dropping in Week 5 this because there's less than 4 days sales data in the 5th week,   
+* What is sales like in each week & Shop with the highest sales per week.  
+Answer::: We can see the sales dropping in Week 5 this because there's less than 4 days sales data in the 5th week,    
 but generally the highest sales was in Week 2 with a total of **$358,995** in sales.
 
 * Which shops generated the most sales for each week?
->The shops with the most sales per week are;
-* Week 1 : Shop 89  
-* Week 2 : Shop 70
-* Week 3 : Shop 6
-* Week 4 : Shop 46
-* Week 5 : Shop 30  
+>Answer:::The shops with the most sales per week are;
+> Week 1 : Shop 89  
+> Week 2 : Shop 70
+> Week 3 : Shop 6
+> Week 4 : Shop 46
+> Week 5 : Shop 30    
 
 * Total number of orders. 
-We have **4929** orders in this month..  
+> Answer:::We have **4929** orders in this month..  
 
 * Total Sales.
-> Total sales for the month is **\$1,483,946**.  
+> Answer::: Total sales for the month is **\$1,483,946**.  
 
 * Total Items sold.
-> **9812** items/shoes were sold.  
+> Answer::: **9812** items/shoes were sold.  
 
 * Average Order Value.
-> The Average Order Value is **\$301.65**.  
+> Answer::: The Average Order Value is **\$301.65**.  
 
 * Most Used payment method.
-> Customers pay more with **Credit Cards**, tho it's almost the same as the other payment methods.  
+> Answer::: Customers pay more with **Credit Cards**, tho it's almost the same as the other payment methods.  
